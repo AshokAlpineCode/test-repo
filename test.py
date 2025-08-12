@@ -1,5 +1,5 @@
-def add_two_numbers(a, b):
-    return a + b
+def calculate_sum(a, b, c):
+    return a + b + c
 
 # Example usage
-print(add_two_numbers(3, 5))
+print(calculate_sum(1, 2, 3))
