@@ -1,5 +1,6 @@
-def calculate_sum(a, b, c):
-    return a + b + c
+def subtract_three_numbers(a, b, c):
+    return a - b - c
 
-# Example usage
-print(calculate_sum(1, 2, 3))
+# Example usage:
+result = subtract_three_numbers(10, 3, 2)
+print(result)
